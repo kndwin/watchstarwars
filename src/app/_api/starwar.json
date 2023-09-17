@@ -1,0 +1,2438 @@
+[
+  {
+    "type": "TV Show",
+    "series": "Tales of the Jedi",
+    "number": 101,
+    "title": "Life and Death",
+    "minutes": 18
+  },
+  {
+    "type": "TV Show",
+    "series": "Tales of the Jedi",
+    "number": 102,
+    "title": "Justice",
+    "minutes": 15
+  },
+  {
+    "type": "TV Show",
+    "series": "Tales of the Jedi",
+    "number": 103,
+    "title": "Choices",
+    "minutes": 15
+  },
+  {
+    "type": "Movie",
+    "series": "Episode",
+    "number": "I",
+    "title": "The Phantom Menace",
+    "minutes": 136
+  },
+  {
+    "type": "TV Show",
+    "series": "Tales of the Jedi",
+    "number": 104,
+    "title": "The Sith Lord",
+    "minutes": 17
+  },
+  {
+    "type": "Movie",
+    "series": "Episode",
+    "number": "II",
+    "title": "Attack of the Clones",
+    "minutes": 142
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 216,
+    "title": "Cat and Mouse",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 116,
+    "title": "Hidden Enemy",
+    "minutes": 23
+  },
+  {
+    "type": "Movie",
+    "series": "The Clone Wars",
+    "number": "T",
+    "title": "The Clone Wars",
+    "minutes": 98
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 301,
+    "title": "Clone Cadets",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 303,
+    "title": "Supply Lines",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 101,
+    "title": "Ambush",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 102,
+    "title": "Rising Malevolence",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 103,
+    "title": "Shadow of Malevolence",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 104,
+    "title": "Destroy Malevolence",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 105,
+    "title": "Rookies",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 106,
+    "title": "Downfall of a Droid",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 107,
+    "title": "Duel of the Droids",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 108,
+    "title": "Bombad Jedi",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 109,
+    "title": "Cloak of Darkness",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 110,
+    "title": "Lair of Grievous",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 111,
+    "title": "Dooku Captured",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 112,
+    "title": "The Gungan General",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 113,
+    "title": "Jedi Crash",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 114,
+    "title": "Defenders of Peace",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 115,
+    "title": "Trespass",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 117,
+    "title": "Blue Shadow Virus",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 118,
+    "title": "Mystery of a Thousand Moons",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 119,
+    "title": "Storm over Ryloth",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 120,
+    "title": "Innocents of Ryloth",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 121,
+    "title": "Liberty on Ryloth",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 201,
+    "title": "Holocron Heist",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 202,
+    "title": "Cargo of Doom",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 203,
+    "title": "Children of the Force",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 217,
+    "title": "Bounty Hunters",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 218,
+    "title": "The Zillo Beast",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 219,
+    "title": "The Zillo Beast Strikes Back",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 204,
+    "title": "Senate Spy",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 205,
+    "title": "Landing at Point Rain",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 206,
+    "title": "Weapons Factory",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 207,
+    "title": "Legacy of Terror",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 208,
+    "title": "Brain Invaders",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 209,
+    "title": "Grievous Intrigue",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 210,
+    "title": "The Deserter",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 211,
+    "title": "Lightsaber Lost",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 212,
+    "title": "The Mandalore Plot",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 213,
+    "title": "Voyage of Temptation",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 214,
+    "title": "Duchess of Mandalore",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 220,
+    "title": "Death Trap",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 221,
+    "title": "R2 Come Home",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 222,
+    "title": "Lethal Trackdown",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 305,
+    "title": "Corruption",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 306,
+    "title": "The Academy",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 307,
+    "title": "Assassin",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 302,
+    "title": "ARC Troopers",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 304,
+    "title": "Sphere of Influence",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 308,
+    "title": "Evil Plans",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 122,
+    "title": "Hostage Crisis",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 309,
+    "title": "Hunt for Ziro",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 310,
+    "title": "Heroes on Both Side",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 311,
+    "title": "Pursuit of Peace",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 215,
+    "title": "Senate Murders",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 312,
+    "title": "Nightsisters",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 313,
+    "title": "Monster",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 314,
+    "title": "Witches of the Mist",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 315,
+    "title": "Overlords",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 316,
+    "title": "Altar of Mortis",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 317,
+    "title": "Ghosts of Mortis",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 318,
+    "title": "The Citadel",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 319,
+    "title": "Counter Attack",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 320,
+    "title": "Citadel Rescue",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 321,
+    "title": "Padawan Lost",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 322,
+    "title": "Wookiee Hunt",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 401,
+    "title": "Water War",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 402,
+    "title": "Gungan Attack",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 403,
+    "title": "Prisoners",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 404,
+    "title": "Shadow Warrior",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 405,
+    "title": "Mercy Mission",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 406,
+    "title": "Nomad Droids",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 407,
+    "title": "Darkness on Umbara",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 408,
+    "title": "The General",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 409,
+    "title": "Plan of Dissent",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 410,
+    "title": "Carnage of Krell",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 411,
+    "title": "Kidnapped",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 412,
+    "title": "Slaves of the Republic",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 413,
+    "title": "Escape from Kadavo",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 414,
+    "title": "A Friend In Need",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 415,
+    "title": "Deception",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 416,
+    "title": "Friends and Enemies",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 417,
+    "title": "The Box",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 418,
+    "title": "Crisis on Naboo",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 419,
+    "title": "Massacre",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 420,
+    "title": "Bounty",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 421,
+    "title": "Brothers",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 422,
+    "title": "Revenge",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 502,
+    "title": "A War on Two Fronts",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 503,
+    "title": "Front Runners",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 504,
+    "title": "The Soft War",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 505,
+    "title": "Tipping Points",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 506,
+    "title": "The Gathering",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 507,
+    "title": "A Test of Strength",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 508,
+    "title": "Bound for Rescue",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 509,
+    "title": "A Necessary Bond",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 510,
+    "title": "Secret Weapons",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 511,
+    "title": "A Sunny Day in the Void",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 512,
+    "title": "Missing in Action",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 513,
+    "title": "Point of No Return",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 501,
+    "title": "Revival",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 514,
+    "title": "Eminence",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 515,
+    "title": "Shades of Reason",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 516,
+    "title": "The Lawless",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 517,
+    "title": "Sabotage",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 518,
+    "title": "The Jedi Who Knew Too Much",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 519,
+    "title": "To Catch a Jedi",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 520,
+    "title": "The Wrong Jedi",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 601,
+    "title": "The Unknown",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 602,
+    "title": "Conspiracy",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 603,
+    "title": "Fugitive",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 604,
+    "title": "Orders",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 605,
+    "title": "An Old Friend",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 606,
+    "title": "The Rise of Clovis",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 607,
+    "title": "Crisis at the Heart",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 608,
+    "title": "The Disappeared: Part 1",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 609,
+    "title": "The Disappeared: Part 2",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 610,
+    "title": "The Lost One",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 611,
+    "title": "Voices",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 612,
+    "title": "Destiny",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 613,
+    "title": "Sacrifice",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 701,
+    "title": "The  Bad Batch",
+    "minutes": 27
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 702,
+    "title": "A Distant Echo",
+    "minutes": 26
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 703,
+    "title": "On the Wings of Keeradaks",
+    "minutes": 21
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 704,
+    "title": "Unfinished Business",
+    "minutes": 26
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 705,
+    "title": "Gone with a Trace",
+    "minutes": 25
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 706,
+    "title": "Deal No Deal",
+    "minutes": 27
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 707,
+    "title": "Dangerous Debt",
+    "minutes": 24
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 708,
+    "title": "Together Again",
+    "minutes": 26
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 709,
+    "title": "Old Friends Not Forgotten",
+    "minutes": 30
+  },
+  {
+    "type": "Movie",
+    "series": "Episode",
+    "number": "III",
+    "title": "Revenge of the Sith",
+    "minutes": 140
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 710,
+    "title": "The Phantom Apprentice",
+    "minutes": 28
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 711,
+    "title": "Shattered",
+    "minutes": 27
+  },
+  {
+    "type": "TV Show",
+    "series": "The Clone Wars",
+    "number": 712,
+    "title": "Victory and Death",
+    "minutes": 24
+  },
+  {
+    "type": "TV Show",
+    "series": "Tales of the Jedi",
+    "number": 105,
+    "title": "Practice Makes Perfect",
+    "minutes": 12
+  },
+  {
+    "type": "TV Show",
+    "series": "Tales of the Jedi",
+    "number": 106,
+    "title": "Resolve",
+    "minutes": 16
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 101,
+    "title": "Aftermath",
+    "minutes": 75
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 102,
+    "title": "Cut and Run",
+    "minutes": 31
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 103,
+    "title": "Replacements",
+    "minutes": 28
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 104,
+    "title": "Cornered",
+    "minutes": 26
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 105,
+    "title": "Rampage",
+    "minutes": 26
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 106,
+    "title": "Decommissioned",
+    "minutes": 25
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 107,
+    "title": "Battle Scars",
+    "minutes": 28
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 108,
+    "title": "Reunion",
+    "minutes": 27
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 109,
+    "title": "Bounty Lost",
+    "minutes": 28
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 110,
+    "title": "Common Ground",
+    "minutes": 28
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 111,
+    "title": "Devil's Deal",
+    "minutes": 28
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 112,
+    "title": "Rescue on Ryloth",
+    "minutes": 29
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 113,
+    "title": "Infested",
+    "minutes": 29
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 114,
+    "title": "War-Mantle",
+    "minutes": 29
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 115,
+    "title": "Return to Kamino",
+    "minutes": 27
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 116,
+    "title": "Kamino Lost",
+    "minutes": 29
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 201,
+    "title": "Spoils of War",
+    "minutes": 24
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 202,
+    "title": "Ruins of War",
+    "minutes": 28
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 203,
+    "title": "The Solitary Clone",
+    "minutes": 29
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 204,
+    "title": "Faster",
+    "minutes": 25
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 205,
+    "title": "Entombed",
+    "minutes": 28
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 206,
+    "title": "Tribe",
+    "minutes": 27
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 207,
+    "title": "The Clone Conspiracy",
+    "minutes": 28
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 208,
+    "title": "Truth and Consequences",
+    "minutes": 30
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 209,
+    "title": "The Crossing",
+    "minutes": 29
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 210,
+    "title": "Retrieval",
+    "minutes": 29
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 211,
+    "title": "Metamorphosis",
+    "minutes": 29
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 212,
+    "title": "The Outpost",
+    "minutes": 31
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 213,
+    "title": "Pabu",
+    "minutes": 28
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 214,
+    "title": "Tipping Point",
+    "minutes": 29
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 215,
+    "title": "The Summit",
+    "minutes": 27
+  },
+  {
+    "type": "TV Show",
+    "series": "The Bad Batch",
+    "number": 216,
+    "title": "Plan 99",
+    "minutes": 28
+  },
+  {
+    "type": "Movie",
+    "series": "A Star Wars Story",
+    "number": "-",
+    "title": "Solo",
+    "minutes": 135
+  },
+  {
+    "type": "TV Show",
+    "series": "Obi-Wan Kenobi",
+    "number": 101,
+    "title": "Part I",
+    "minutes": 56
+  },
+  {
+    "type": "TV Show",
+    "series": "Obi-Wan Kenobi",
+    "number": 102,
+    "title": "Part II",
+    "minutes": 42
+  },
+  {
+    "type": "TV Show",
+    "series": "Obi-Wan Kenobi",
+    "number": 103,
+    "title": "Part III",
+    "minutes": 48
+  },
+  {
+    "type": "TV Show",
+    "series": "Obi-Wan Kenobi",
+    "number": 104,
+    "title": "Part IV",
+    "minutes": 39
+  },
+  {
+    "type": "TV Show",
+    "series": "Obi-Wan Kenobi",
+    "number": 105,
+    "title": "Part V",
+    "minutes": 43
+  },
+  {
+    "type": "TV Show",
+    "series": "Obi-Wan Kenobi",
+    "number": 106,
+    "title": "Part VI",
+    "minutes": 51
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 101,
+    "title": "Spark of Rebellion Part 1",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 102,
+    "title": "Spark of Rebellion Part 2",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 103,
+    "title": "Droids in Distress",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 104,
+    "title": "Fighter Flight",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 105,
+    "title": "Rise of the Old Masters",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 106,
+    "title": "Breaking Ranks",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 107,
+    "title": "Out of Darkness",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 108,
+    "title": "Empire Day",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 109,
+    "title": "Gathering Forces",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 110,
+    "title": "Path of the Jedi",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 111,
+    "title": "Idiot's Array",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 112,
+    "title": "Vision of Hope",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 113,
+    "title": "Call to Action",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 114,
+    "title": "Rebel Resolve",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 115,
+    "title": "Fire Across the Galaxy",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 201,
+    "title": "The Siege of Lothal Part 1",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 202,
+    "title": "The Siege of Lothal Part 2",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 203,
+    "title": "The Lost Commanders",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 204,
+    "title": "Relics of the Old Republic",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 205,
+    "title": "Always Two There Are",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 206,
+    "title": "Brothers of the Broken Horn",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 207,
+    "title": "Wings of the Master",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 208,
+    "title": "Blood Sisters",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 209,
+    "title": "Stealth Strike",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 210,
+    "title": "The Future of the Force",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 211,
+    "title": "Legacy",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 212,
+    "title": "A Princess on Lothal",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 213,
+    "title": "The Protector of Concord Dawn",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 214,
+    "title": "Legends of the Lasat",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 215,
+    "title": "The Call",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 216,
+    "title": "Homecoming",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 217,
+    "title": "The Honorable Ones",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 218,
+    "title": "Shroud of Darkness",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 219,
+    "title": "The Forgotten Droid",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 220,
+    "title": "The Mystery of Chopper Base",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 221,
+    "title": "Twilight of the Apprentice Part 1",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 222,
+    "title": "Twilight of the Apprentice Part 2",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 301,
+    "title": "Steps Into Shadow Part 1",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 302,
+    "title": "Steps Into Shadow Part 2",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 303,
+    "title": "The Holocrons of Fate",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 304,
+    "title": "The Antilles Extraction",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 305,
+    "title": "Hera's Heroes",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 306,
+    "title": "The Last Battle",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 307,
+    "title": "Imperial Supercommandos",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 308,
+    "title": "Iron Squadron",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 309,
+    "title": "The Wynkahthu Job",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 310,
+    "title": "An Inside Man",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 311,
+    "title": "Visions and Voices",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 312,
+    "title": "Ghosts of Geonosis: Part 1",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 313,
+    "title": "Ghosts of Geonosis: Part 2",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 314,
+    "title": "Warhead",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 315,
+    "title": "Trials of the Darksaber",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 316,
+    "title": "Legacy of Mandalore",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 317,
+    "title": "Through Imperial Eyes",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 318,
+    "title": "Secret Cargo",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 319,
+    "title": "Double Agent Droid",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 320,
+    "title": "Twin Suns",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 321,
+    "title": "Zero Hour: Part 1",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 322,
+    "title": "Zero Hour: Part 2",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 401,
+    "title": "Heroes of Mandalore: Part 1",
+    "minutes": 22
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 402,
+    "title": "Heroes of Mandalore: Part 2",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 403,
+    "title": "In the Name of the Rebellion: Part 1",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 404,
+    "title": "In the Name of the Rebellion: Part 2",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 405,
+    "title": "The Occupation",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 406,
+    "title": "Flight of the Defender",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 407,
+    "title": "Kindred",
+    "minutes": 22
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 408,
+    "title": "Crawler Commandeers",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 409,
+    "title": "Rebel Assault",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 410,
+    "title": "Jedi Night",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 411,
+    "title": "DUME",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 412,
+    "title": "Wolves and a Door",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 413,
+    "title": "A World Between Worlds",
+    "minutes": 24
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": 414,
+    "title": "A Fool's Hope",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Rebels",
+    "number": "415/416",
+    "title": "Family Reunion - and Farewell",
+    "minutes": 46
+  },
+  {
+    "type": "TV Show",
+    "series": "Andor",
+    "number": 101,
+    "title": "Kassa",
+    "minutes": 42
+  },
+  {
+    "type": "TV Show",
+    "series": "Andor",
+    "number": 102,
+    "title": "That Would Be Me",
+    "minutes": 38
+  },
+  {
+    "type": "TV Show",
+    "series": "Andor",
+    "number": 103,
+    "title": "Reckoning",
+    "minutes": 43
+  },
+  {
+    "type": "TV Show",
+    "series": "Andor",
+    "number": 104,
+    "title": "Aldhani",
+    "minutes": 50
+  },
+  {
+    "type": "TV Show",
+    "series": "Andor",
+    "number": 105,
+    "title": "The Axe Forgets",
+    "minutes": 46
+  },
+  {
+    "type": "TV Show",
+    "series": "Andor",
+    "number": 106,
+    "title": "The Eye",
+    "minutes": 54
+  },
+  {
+    "type": "TV Show",
+    "series": "Andor",
+    "number": 107,
+    "title": "Announcement",
+    "minutes": 53
+  },
+  {
+    "type": "TV Show",
+    "series": "Andor",
+    "number": 108,
+    "title": "Narkina 5",
+    "minutes": 56
+  },
+  {
+    "type": "TV Show",
+    "series": "Andor",
+    "number": 109,
+    "title": "Nobody's Listening!",
+    "minutes": 49
+  },
+  {
+    "type": "TV Show",
+    "series": "Andor",
+    "number": 110,
+    "title": "One Way Out",
+    "minutes": 46
+  },
+  {
+    "type": "TV Show",
+    "series": "Andor",
+    "number": 111,
+    "title": "Daughter of Ferrix",
+    "minutes": 46
+  },
+  {
+    "type": "TV Show",
+    "series": "Andor",
+    "number": 112,
+    "title": "Rix Road",
+    "minutes": 57
+  },
+  {
+    "type": "TV Show",
+    "series": "Andor",
+    "number": "",
+    "title": "TBA",
+    "minutes": ""
+  },
+  {
+    "type": "Movie",
+    "series": "A Star Wars Story",
+    "number": "-",
+    "title": "Rogue One",
+    "minutes": 134
+  },
+  {
+    "type": "Movie",
+    "series": "Episode",
+    "number": "IV",
+    "title": "A New Hope",
+    "minutes": 124
+  },
+  {
+    "type": "Movie",
+    "series": "Episode",
+    "number": "V",
+    "title": "The Empire Strikes Back",
+    "minutes": 127
+  },
+  {
+    "type": "Movie",
+    "series": "Episode",
+    "number": "VI",
+    "title": "Return of the Jedi",
+    "minutes": 134
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 101,
+    "title": "Chapter 1: The Mandalorian",
+    "minutes": 40
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 102,
+    "title": "Chapter 2: The Child",
+    "minutes": 33
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 103,
+    "title": "Chapter 3: The Sin",
+    "minutes": 38
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 104,
+    "title": "Chapter 4: Sanctuary",
+    "minutes": 42
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 105,
+    "title": "Chapter 5: The Gunslinger",
+    "minutes": 36
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 106,
+    "title": "Chapter 6: The Prisoner",
+    "minutes": 44
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 107,
+    "title": "Chapter 7: The Reckoning",
+    "minutes": 41
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 108,
+    "title": "Chapter 8: Redemption",
+    "minutes": 49
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 201,
+    "title": "Chapter 9: The Marshal",
+    "minutes": 55
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 202,
+    "title": "Chapter 10: The Passenger",
+    "minutes": 42
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 203,
+    "title": "Chapter 11: The Heiress",
+    "minutes": 36
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 204,
+    "title": "Chapter 12: The Siege",
+    "minutes": 40
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 205,
+    "title": "Chapter 13: The Jedi",
+    "minutes": 47
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 206,
+    "title": "Chapter 14: The Tragedy",
+    "minutes": 34
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 207,
+    "title": "Chapter 15: The Believer",
+    "minutes": 39
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 208,
+    "title": "Chapter 16: The Rescue",
+    "minutes": 47
+  },
+  {
+    "type": "TV Show",
+    "series": "The Book of Boba Fett",
+    "number": 101,
+    "title": "Chapter 1: Stranger in a Strange Land",
+    "minutes": 39
+  },
+  {
+    "type": "TV Show",
+    "series": "The Book of Boba Fett",
+    "number": 102,
+    "title": "Chapter 2: The Tribes of Tatooine",
+    "minutes": 53
+  },
+  {
+    "type": "TV Show",
+    "series": "The Book of Boba Fett",
+    "number": 103,
+    "title": "Chapter 3: The Streets of Mos Espa",
+    "minutes": 39
+  },
+  {
+    "type": "TV Show",
+    "series": "The Book of Boba Fett",
+    "number": 104,
+    "title": "Chapter 4: The Gathering Storm",
+    "minutes": 49
+  },
+  {
+    "type": "TV Show",
+    "series": "The Book of Boba Fett",
+    "number": 105,
+    "title": "Chapter 5: Return of the Mandalorian",
+    "minutes": 52
+  },
+  {
+    "type": "TV Show",
+    "series": "The Book of Boba Fett",
+    "number": 106,
+    "title": "Chapter 6: From the Desert Comes a Stranger",
+    "minutes": 48
+  },
+  {
+    "type": "TV Show",
+    "series": "The Book of Boba Fett",
+    "number": 107,
+    "title": "Chapter 7: In the Name of Honor",
+    "minutes": 60
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 301,
+    "title": "Chapter 17: The Apostate",
+    "minutes": 38
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 302,
+    "title": "Chapter 18: The Mines of Mandalore",
+    "minutes": 45
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 303,
+    "title": "Chapter 19: The Convert",
+    "minutes": 59
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 304,
+    "title": "Chapter 20: The Foundling",
+    "minutes": 33
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 305,
+    "title": "Chapter 21: The Pirate",
+    "minutes": 44
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 306,
+    "title": "Chapter 22: Guns for Hire",
+    "minutes": 46
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 307,
+    "title": "Chapter 23: The Spies",
+    "minutes": 53
+  },
+  {
+    "type": "TV Show",
+    "series": "The Mandalorian",
+    "number": 308,
+    "title": "Chapter 24: The Return",
+    "minutes": 42
+  },
+  {
+    "type": "TV Show",
+    "series": "Ahsoka",
+    "number": "",
+    "title": "TBA",
+    "minutes": ""
+  },
+  {
+    "type": "TV Show",
+    "series": "Skeleton Crew",
+    "number": "",
+    "title": "TBA",
+    "minutes": ""
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 101,
+    "title": "The Recruit Part 1",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 102,
+    "title": "The Recruit Part 2",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 103,
+    "title": "The Triple Dark",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 104,
+    "title": "Fuel for the Fire",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 105,
+    "title": "The High Tower",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 106,
+    "title": "The Children from Tehar",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 107,
+    "title": "Signal from Sector Six",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 108,
+    "title": "Synara's Score",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 109,
+    "title": "The Platform Classic",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 110,
+    "title": "Secrets and Holograms",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 111,
+    "title": "Station Theta Black",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 112,
+    "title": "Bibo",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 113,
+    "title": "Dangerous Business",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 114,
+    "title": "The Doza Dilemma",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 115,
+    "title": "The First Order Occupation",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 116,
+    "title": "The New Trooper",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 117,
+    "title": "The Core Problem",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 118,
+    "title": "The Disappeared",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 119,
+    "title": "Descent",
+    "minutes": 23
+  },
+  {
+    "type": "Movie",
+    "series": "Episode",
+    "number": "VII",
+    "title": "The Force Awakens",
+    "minutes": 138
+  },
+  {
+    "type": "Movie",
+    "series": "Episode",
+    "number": "VIII",
+    "title": "The Last Jedi",
+    "minutes": 152
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 120,
+    "title": "No Escape: Part 1",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 121,
+    "title": "No Escape: Part 2",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 201,
+    "title": "Into the Unknown",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 202,
+    "title": "A Quick Salvage Run",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 203,
+    "title": "Live Fire",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 204,
+    "title": "Hunt on Celsor 3",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 205,
+    "title": "The Engineer",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 206,
+    "title": "From Beneath",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 207,
+    "title": "The Relic Raiders",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 208,
+    "title": "Rendezvous Point",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 209,
+    "title": "The Voxx Vortex 5000",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 210,
+    "title": "Kaz's Curse",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 211,
+    "title": "Station to Station",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 212,
+    "title": "The Missing Agent",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 213,
+    "title": "Breakout",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 214,
+    "title": "The Mutiny",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 215,
+    "title": "The New World",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 216,
+    "title": "No Place Safe",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 217,
+    "title": "Rebuilding the Resistance",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 218,
+    "title": "The Escape: Part 1",
+    "minutes": 23
+  },
+  {
+    "type": "TV Show",
+    "series": "Star Wars Resistance",
+    "number": 219,
+    "title": "The Escape: Part 2",
+    "minutes": 23
+  }
+]
