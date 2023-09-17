@@ -1,11 +1,11 @@
 "use client";
 
 import { ColumnDef } from "@tanstack/react-table";
+import { cx } from "class-variance-authority";
+
 import { Badge } from "@/components/ui/badge";
 import { Checkbox } from "@/components/ui/checkbox";
 import { StarWarItem } from "../_api";
-import { Text } from "@/components/text";
-import { cx } from "class-variance-authority";
 
 export const columns: ColumnDef<StarWarItem>[] = [
   {
@@ -21,7 +21,7 @@ export const columns: ColumnDef<StarWarItem>[] = [
         <div
           className={cx(
             "w-2 h-2 rounded-full inline-block mr-2",
-            seriesColors[row.original.series]
+            seriesColors[row.original.series as keyof typeof seriesColors]
           )}
         />
         {row.original.series}
@@ -68,4 +68,4 @@ export const seriesColors = {
   Ahsoka: "bg-cyan-500",
   "Skeleton Crew": "bg-gray-500",
   "Star Wars Resistance": "bg-sky-500",
-};
+} as const;
